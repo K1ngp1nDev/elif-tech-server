@@ -1,1 +1,1 @@
-"# elif-tech-server" 
+npm start
